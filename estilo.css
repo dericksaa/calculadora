@@ -18,7 +18,7 @@
     width: 80%;
 }
 
-@media(max-width:425px){
+@media(max-width:768px){
     .calculadora {
         flex-direction: column;
     }
@@ -31,7 +31,7 @@
     width: 50%;
 }
 
-@media(max-width:425px){
+@media(max-width:768px){
     .pantalla {
         width: 100%;
         aspect-ratio: 1.5/1;
@@ -50,7 +50,7 @@
     width: 50%;
 }
 
-@media(max-width:425px){
+@media(max-width:768px){
     .botones {
         width: 100%;
     }
